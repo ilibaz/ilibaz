@@ -23,3 +23,6 @@ I'm also the proud creator of [SkillTide](https://skilltide.app), a SaaS B2C pro
 ### Let's Connect!
 
 Feel free to browse around! If you're working on a challenging Front-End, mobile, or Full Stack project, drop me a line on LinkedIn - I'd love to chat.
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-bazanov)
+
