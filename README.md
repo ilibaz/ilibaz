@@ -16,16 +16,6 @@ I'm a Senior Software Engineer in Helsinki, Finland, with a 12+ year passion for
 
 ---
 
-### What I'm Building Now: [SkillTide.app](https://skilltide.app) 🚀
-
-I'm the creator of **SkillTide**, an AI-powered career navigator. After a frustrating 3-month job search, I built the tool I wished I had—one that analyzes your GitHub, CV, and LinkedIn to give you a clear, data-driven roadmap to your next role.
-
-It's my passion project for blending complex frontend architecture with practical AI.
-
-**[➡️ Get Your Free Career Analysis at SkillTide.app](https://skilltide.app)**
-
----
-
 ### Let's Connect
 
 I'm always open to connecting. Let's talk about frontend architecture, mobile UX, or your latest project.
