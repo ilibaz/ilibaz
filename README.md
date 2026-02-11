@@ -9,6 +9,11 @@ I'm a **Senior Software Engineer** based in Espoo, Finland, with a **12+ year** 
 * **[Upright DMA Platform](https://www.uprightproject.com/products/dma)**
     I recently helped launch this AI-powered **Double Materiality Assessment** platform. It enables B2B clients to access complex "net impact" data through a self-service model, built on a robust stack of React, TypeScript, and Node.js.
 
+* **[Arca — AI Content Curation](https://apps.apple.com/ug/app/arca-so/id6477714383)**
+    * Built a unified TypeScript codebase for **Next.js** and **React Native**, achieving **90% code reuse** across web and mobile.
+    * Integrated AI-driven recommendation models and maintained a **4.8+ App Store rating** through high-performance UX.
+    * While the app is invite-only, you can view a live web preview of a content collection [here](https://app.arca.so/ryanroach).
+
 * **[Habbox 3D Navigator](https://habbox.game/navigator/)**
     I solely delivered this **3D NFT hotel navigator** using **Three.js** and **React**. The engine is optimized to the bone for high-performance 3D rendering on any device, though the UI remains in an unpolished draft state from the development phase.
 
