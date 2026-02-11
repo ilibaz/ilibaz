@@ -30,4 +30,4 @@ I'm a **Senior Software Engineer** based in Espoo, Finland, with a **12+ year** 
 
 I'm always open to talking about **frontend architecture**, **mobile UX**, or the latest in **AI integration**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bazanov-ilia/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilia-bazanov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-bazanov/)
